@@ -1,4 +1,5 @@
 <h1><strong>SC7AI_Assignment_1</strong></h1>
+<h3>Foundation for Artificial Intelligence</h3>
 <hr>
 <ol>
   <li>01-Kelompok G-2</li>
